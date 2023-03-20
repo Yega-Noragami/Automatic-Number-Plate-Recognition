@@ -3,7 +3,7 @@
 This project includes all the necessary files required for Performing Number Plate Extraction and Digit Recognition . You can run the project locally yourself or acess the streamlit dashboard hosted at streamlit.cloud
 
 # Demo Example 
-![Number Plate Recognition](https://github.com/Yega-Noragami/Automatic-Number-Plate-Recognition/index.jpg
+![Number Plate Recognition](https://github.com/Yega-Noragami/Automatic-Number-Plate-Recognition/blob/main/index.jpg)
 
 # How to use it
 Make sure you can conda or other virtual environment installed
